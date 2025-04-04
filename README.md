@@ -14,21 +14,21 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 This was a simple and quick project to get started with Frontend Mentor challenges. It is a webpage that shows a QR code component.
 
-### Screenshot
+## Screenshot
 
 ![](./screenshot.png)
 
-### Links
+## Links
 
 - Live Site URL: https://jrdnbrg.github.io/qr-code-component/
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 
-### What I learned
+## What I learned
 I was struggling with centering the QR code component on the page, because I didn't know how to make the body the same height as the page/screen. Eventually, I learned to do it like this:
 
 ```css
@@ -37,6 +37,6 @@ I was struggling with centering the QR code component on the page, because I did
 }
 ```
 
-### Useful resources
+## Useful resources
 
 - [HTML vs Body: How to Set Width and Height for Full Page Size](https://www.freecodecamp.org/news/html-page-width-height/) - This article helped me understand how to make the body the size of page.
